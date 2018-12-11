@@ -1,0 +1,11 @@
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\bin\Debug\netcoreapp1.1\Mars.deps.json
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\bin\Debug\netcoreapp1.1\Mars.runtimeconfig.json
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\bin\Debug\netcoreapp1.1\Mars.runtimeconfig.dev.json
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\bin\Debug\netcoreapp1.1\Mars.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\bin\Debug\netcoreapp1.1\Mars.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.AssemblyInfo.cs
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.dll
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.pdb
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.csprojAssemblyReference.cache
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.csproj.CoreCompileInputs.cache
+C:\Users\Richard\documents\visual studio 2017\Projects\Mars\Mars\obj\Debug\netcoreapp1.1\Mars.AssemblyInfoInputs.cache

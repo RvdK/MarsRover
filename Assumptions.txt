@@ -1,0 +1,19 @@
+The command is sent via an API call:
+	<host>/api/rover?command=(inputsring)
+You can also send the same string to:
+	(host)/api/rover/debug?command=(inputsring)
+	this will execute the same code but will return the endstate of the grid with all rover locations
+	
+If an error is found during set up no moves will be executed (and the debug response will not return the complete grid)
+	- Syntax errors (e.g. unexpected characters in the movement string or  padded data at the end of the string)
+	- rover collisions during set up
+	- out of bound rovers during set up
+	
+2 Rovers are never allowed on the same location at the same time
+	
+The rover is given a grid this grid is interpreted as starting at 0 thus dim(5 5) gives possible coordinates (0-4,0-4)
+
+Once the set up is complete every rover will move untill it no longer can or is out of commands this means that preventing
+Blocking is upto the user e.g. rover1 is at 1,1 E (M) and rover2 is at 1,0 N (MM) this is a perfectly valid end state but rover2 will still
+not move since rover1 is already in the way.
+
